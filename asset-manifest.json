@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/QuestionByte_Complete/static/css/main.d9b2e1c2.chunk.css",
+    "main.js": "/QuestionByte_Complete/static/js/main.c19695de.chunk.js",
+    "main.js.map": "/QuestionByte_Complete/static/js/main.c19695de.chunk.js.map",
+    "runtime-main.js": "/QuestionByte_Complete/static/js/runtime-main.a0aca224.js",
+    "runtime-main.js.map": "/QuestionByte_Complete/static/js/runtime-main.a0aca224.js.map",
+    "static/css/2.69233f45.chunk.css": "/QuestionByte_Complete/static/css/2.69233f45.chunk.css",
+    "static/js/2.15f50691.chunk.js": "/QuestionByte_Complete/static/js/2.15f50691.chunk.js",
+    "static/js/2.15f50691.chunk.js.map": "/QuestionByte_Complete/static/js/2.15f50691.chunk.js.map",
+    "index.html": "/QuestionByte_Complete/index.html",
+    "precache-manifest.fa18558f54f6e7a0104744ddd5fc0ea0.js": "/QuestionByte_Complete/precache-manifest.fa18558f54f6e7a0104744ddd5fc0ea0.js",
+    "service-worker.js": "/QuestionByte_Complete/service-worker.js",
+    "static/css/2.69233f45.chunk.css.map": "/QuestionByte_Complete/static/css/2.69233f45.chunk.css.map",
+    "static/css/main.d9b2e1c2.chunk.css.map": "/QuestionByte_Complete/static/css/main.d9b2e1c2.chunk.css.map",
+    "static/js/2.15f50691.chunk.js.LICENSE.txt": "/QuestionByte_Complete/static/js/2.15f50691.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0aca224.js",
+    "static/css/2.69233f45.chunk.css",
+    "static/js/2.15f50691.chunk.js",
+    "static/css/main.d9b2e1c2.chunk.css",
+    "static/js/main.c19695de.chunk.js"
+  ]
+}
